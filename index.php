@@ -9,7 +9,8 @@
     
     <div class ="car-container">
     <?php
-    require_once 'functions.php';
+    require_once 'utils/carDisplay.utils.php';
+    require_once 'utils/getCarData.utils.php';
 
     $cars = [
         1 => [
@@ -50,13 +51,13 @@
         ],
         7 => [
             "make" => "Nissan",
-            "model" => "GTR Nismo",
+            "model" => "GTR",
             "year" => "2020",
             "type" => "Sports"
         ],
         8 => [
             "make" => "Mazda",
-            "model" => "RX-7 FD",
+            "model" => "RX-7",
             "year" => "2010",
             "type" => "Sports"
         ],
