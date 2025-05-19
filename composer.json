@@ -1,0 +1,16 @@
+{
+    "name": "zxuan/ad-task-2",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Zxuan\\AdTask2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ceej",
+            "email": "ceejjay73@gmail.com"
+        }
+    ],
+    "require": {}
+}
