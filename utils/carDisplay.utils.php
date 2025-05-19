@@ -1,6 +1,6 @@
 <?php
 function showCarCard($car, $id) {
-    $url = "page/cardetails.php?id=$id";
+    $url = "page/index.php?id=$id";
     echo '<div class = car>';
     echo '<h3>' . $car['make'] . ' ' . $car['model'] . '</h3>';
     echo '<p>Year: ' . $car['year'] . '</p>';
@@ -15,7 +15,7 @@ function showCarDetails($car, $basepath = '') {
         return;
     }
 
-    $imgPath = $basepath . 'assets/img/' . strtolower($car['make'] . '_' . $car['model']) . '.jpg';
+    $imgPath = $basepath . 'page/assets/img/' . strtolower($car['make'] . '_' . $car['model']) . '.jpg';
     echo '<div class = "details">';
     echo '<div class = "car-image">';
     echo '<img src = "' . $imgPath . '">';
