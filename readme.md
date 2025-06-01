@@ -67,7 +67,6 @@ It is a car listing website where users can view cars displayed, and their detai
 
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-
 - Structural Components & Styling Components
 
 ### Technology
@@ -85,7 +84,7 @@ It is a car listing website where users can view cars displayed, and their detai
 #### Deployment
 
 ## Rules, Practices and Principles
-
+- Fragmentation
 <!-- Do not Change this -->
 
 1. Always use `AD-` in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -136,7 +135,7 @@ AD-ProjectName
 
 | Title        | Purpose                                                                       | Link          |
 | ------------ | ----------------------------------------------------------------------------- | ------------- |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| w3schools    | Reference for the correct syntax and format.                                  | w3schools.com |
+| ChatGPT      | To understand the overall logic to be used for the project.                   | chatgpt.com   |
+| Youtube      | Used for better understanding of dictionary/associative arrays.               | youtube.com   |
+| Google       | Where the images of the cars came from.                                       | google.com    |
